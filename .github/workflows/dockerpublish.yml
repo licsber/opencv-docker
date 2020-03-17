@@ -14,7 +14,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: opencv
+  IMAGE_NAME: opencv-docker
 
 jobs:
   # Run tests.
